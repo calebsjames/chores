@@ -7,6 +7,7 @@
         { "id": 5, "name": "Sophia" },
         { "id": 6, "name": "Michael" }
     ],
+
     "chores": [
         { "id": 1, "task": "Paint Garage" },
         { "id": 2, "task": "Take out the trash" },
@@ -15,6 +16,7 @@
         { "id": 5, "task": "Family game night" },
         { "id": 6, "task": "Feed the dog" }
     ],
+
     "familyChores": [
         {
             "id": 1,
@@ -36,4 +38,5 @@
             "familyMemberId": 2,
             "choreId": 3
         }
+    ]
 }

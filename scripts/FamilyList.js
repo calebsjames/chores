@@ -39,6 +39,7 @@ export const FamilyList = () => {
     Component render function
 */
 const render = () => {
+    debugger
     contentTarget.innerHTML = people.map(person => {
         const relationshipObjects = getChoreRelationships(person)
         /*
